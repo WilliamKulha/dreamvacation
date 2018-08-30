@@ -1,5 +1,22 @@
-img .bigpic {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.bigpic {
+  border-radius:25px;
+  margin:10em;
+}
+
+.ctop {
+  height:30rem;
+  width:30rem;
+  border-radius:25px;
+}
+
+.alert-text {
+  color:#e34234;
+}
+
+h2{
+  text-align:center;
+}
+
+.halfwidth {
+  width:50%;
 }
